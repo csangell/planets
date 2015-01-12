@@ -7,3 +7,4 @@ we've been there
 dry
 thin atmosphere
 sparsely populated
+Populated entirely by robots
