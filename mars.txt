@@ -8,3 +8,4 @@ dry
 thin atmosphere
 sparsely populated
 Populated entirely by robots
+both water ice and dry ice
