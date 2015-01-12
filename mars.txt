@@ -9,3 +9,4 @@ thin atmosphere
 sparsely populated
 Populated entirely by robots
 no magnetosphere
+both water ice and dry ice
